@@ -74,8 +74,8 @@
   <button type="submit" value="Envoyer" class="btn btn-primary">Envoyer</button>
 </form>
 
-<p>Les données envoyées par ce formulaire seront les votres et ne sont pas utilisées ou vendues à d'autres agences.</p>
+<p>Les données envoyées par ce formulaire seront les vôtres et ne sont pas utilisées ou vendues à d'autres agences.</p>
 
-<a href="ecodom.php">Retour accueil</a>
+<a href="ecodom.php">Retour Accueil (ecodom.php)</a>
 </body>
 </html>
